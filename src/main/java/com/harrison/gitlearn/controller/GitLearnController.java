@@ -11,4 +11,11 @@ public class GitLearnController {
     public void  hello(){
         System.out.println("Hello git");
     }
+    
+    
+    public  void world(){
+        System.out.println("Hello word");
+    }
+    
+    
 }
