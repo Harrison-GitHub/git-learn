@@ -6,4 +6,9 @@ package com.harrison.gitlearn.controller;
  * @Date: 2020/12/29
  **/
 public class GitLearnController {
+    
+    
+    public void  hello(){
+        System.out.println("Hello git");
+    }
 }
